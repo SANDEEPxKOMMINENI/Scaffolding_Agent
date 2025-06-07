@@ -22,7 +22,7 @@ A smart project scaffolding tool that uses AI to generate optimized project stru
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blueprint.git
+git clone https://github.com/SANDEEPxKOMMINENI/Scaffolding_Agent.git
 cd blueprint
 ```
 
