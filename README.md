@@ -1,6 +1,6 @@
-# Blueprint 🚀
+# Scaffolding Agent 🚀
 
-A smart project scaffolding tool that uses AI to generate optimized project structures based on your requirements.
+A smart project scaffolding tool that uses AI to generate optimized project structures based on your requirements. This web application provides an intuitive interface for creating well-structured projects tailored to your specific needs.
 
 ## Features
 
@@ -8,7 +8,7 @@ A smart project scaffolding tool that uses AI to generate optimized project stru
 - 📁 Intelligent directory structure generation
 - 🛠️ Multiple tech stack support
 - ⚡ Quick project setup
-- 🎨 Beautiful terminal UI
+- 🎨 Beautiful web interface
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@ A smart project scaffolding tool that uses AI to generate optimized project stru
 1. Clone the repository:
 ```bash
 git clone https://github.com/SANDEEPxKOMMINENI/Scaffolding_Agent.git
-cd blueprint
+cd Scaffolding_Agent
 ```
 
 2. Install dependencies:
@@ -36,20 +36,29 @@ npm install
 npm run dev
 ```
 
-## Available Commands
+## How to Use
 
-- `init [project-name]` - Create a new project with interactive prompts
-- `list` - List available tech stacks and templates
-- `version` - Display the current version
-- `clear` - Clear the terminal output
-- `help` - Display help message
+1. Open the application in your browser after starting the development server
+2. Describe your project requirements using natural language
+3. Let the AI analyze your needs and suggest an optimal project structure
+4. Review and customize the generated scaffolding
+5. Download or export your project template
 
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add some amazing feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/amazing-feature
+   ```
 5. Open a Pull Request
 
 ## License
